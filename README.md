@@ -74,7 +74,7 @@
 
 Bright Initiative 为高校院系、研究人员、以及致力于环境或社会公益事业的 NGO/NPO，提供 **[Web Scraper API](https://www.bright.cn/products/web-scraper)** 与 **[即用型数据集](https://www.bright.cn/products/datasets)** 的免费访问。请在此提交申请：[here](https://brightinitiative.com)。
 
-### 想自己抓取电商网站？使用我们的 [电商爬取 API](https://brightdata.com/products/web-scraper/ecommerce)
+### 想自己抓取电商网站？使用我们的 [电商爬取 API](https://www.bright.cn/products/web-scraper/ecommerce)
 热门电商爬虫：
 - [Amazon 爬虫](https://www.bright.cn/products/web-scraper/amazon)
 - [Walmart 爬虫](https://www.bright.cn/products/web-scraper/walmart)
